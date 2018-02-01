@@ -10,6 +10,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "catchify": "^2.6.1"
+    "catchify": "^2.6.1",
+    "flow-wing": "^1.0.0",
+    "lodash": "^4.17.4"
   }
 }
